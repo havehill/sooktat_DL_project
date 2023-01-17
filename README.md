@@ -13,6 +13,14 @@ master branch 에는 중요한 자료 (데이터셋, 최종 모델 코드, 발�
 
 <hr/>
 
+|일자|일정|
+|------|---|
+|1/30(월)|중간발표|
+|2/28(화)|최종발표|
+
+
+<hr/>
+
 **참고하세요 :** 코랩-깃허브 연동 (https://velog.io/@shong676/Colab%EA%B3%BC-GitHub-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)  
 
 +) 저 사이트대로 하면 코랩에서 push 할 때 default branch(master branch)로 가게 되는데, 다음 코드로 변경하시면 본인 브랜치로 바로 push 가능합니다.  
@@ -22,3 +30,6 @@ master branch 에는 중요한 자료 (데이터셋, 최종 모델 코드, 발�
 !git add test.ipynb(커밋할 파일)  
 !git commit -m “커밋 메세지”  
 !git push origin jaewon(본인브랜치명)  
+
+
+
