@@ -5,7 +5,7 @@
 
 **주제 :** 월간 데이콘 뉴스 토픽 분류 AI 경진대회 (https://dacon.io/competitions/official/235747/codeshare)
 
-**일정**
+**일정 :**
 |일자|일정|
 |------|---|
 |1/30(월)|중간발표|
