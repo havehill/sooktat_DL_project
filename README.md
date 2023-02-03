@@ -4,10 +4,8 @@
 
 **주제 :** 월간 데이콘 뉴스 토픽 분류 AI 경진대회
 
-#### 20230120
-### [EDA](https://github.com/havehill/sooktat_DL_project/tree/chaehyoung/EDA_0120)
+### 20230120 [EDA](https://github.com/havehill/sooktat_DL_project/tree/chaehyoung/EDA_0120)
 - [명사, 행태소 분석](https://github.com/havehill/sooktat_DL_project/blob/chaehyoung/EDA_0120/1_EDA(1).ipynb)
 - [N-gram](https://github.com/havehill/sooktat_DL_project/blob/chaehyoung/EDA_0120/1_EDA(2).ipynb)
 
-#### 20230129
-### [Preprocessing]()
+### 20230129 [Preprocessing]()
