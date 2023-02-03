@@ -4,7 +4,7 @@
 
 **주제 :** 월간 데이콘 뉴스 토픽 분류 AI 경진대회
 
-### EDA
+### [EDA](https://github.com/havehill/sooktat_DL_project/tree/chaehyoung/EDA_0120)
 - [명사, 행태소 분석](https://github.com/havehill/sooktat_DL_project/blob/main/ProjectCode/EDA_0120/1_EDA(1).ipynb)
 - [N-gram](https://github.com/havehill/sooktat_DL_project/blob/main/ProjectCode/EDA_0120/1_EDA(2).ipynb)
 
