@@ -8,4 +8,4 @@
 - [명사, 행태소 분석](https://github.com/havehill/sooktat_DL_project/blob/chaehyoung/EDA_0120/1_EDA(1).ipynb)
 - [N-gram](https://github.com/havehill/sooktat_DL_project/blob/chaehyoung/EDA_0120/1_EDA(2).ipynb)
 
-### 20230129 [Preprocessing]()
+### 20230129 [Preprocessing](https://github.com/havehill/sooktat_DL_project/blob/chaehyoung/Preprocessing_0129/2_EDA(3)%20%26%20Preprocessing.ipynb)
