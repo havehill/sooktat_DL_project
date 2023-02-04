@@ -26,3 +26,7 @@ master branch 에는 중요한 자료 (데이터셋, 최종 모델 코드, 발�
 !git add test.ipynb(커밋할 파일)  
 !git commit -m “커밋 메세지”  
 !git push origin jaewon(본인브랜치명)  
+
+<hr/>
+
+**사이트 추천 :** https://codong.tistory.com/32 (NLP 과정을 간략하게 잘 설명하고 있는 것 같아 첨부합니다!! :) )
