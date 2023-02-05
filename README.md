@@ -9,3 +9,5 @@
 - [N-gram](https://github.com/havehill/sooktat_DL_project/blob/chaehyoung/EDA_0120/1_EDA(2).ipynb)
 
 ### 20230129 [Preprocessing](https://github.com/havehill/sooktat_DL_project/blob/chaehyoung/Preprocessing_0129/2_EDA(3)%20%26%20Preprocessing.ipynb)
+  
+### 20230205 [LDA Topic Modeling]()
