@@ -4,9 +4,9 @@
 
 **주제 :** [월간 데이콘 뉴스 토픽 분류 AI 경진대회](https://dacon.io/competitions/official/235747/overview/description)
 
-### 20230120 [EDA](https://github.com/havehill/sooktat_DL_project/tree/chaehyoung/EDA_0120)
-- [명사, 행태소 분석](https://github.com/havehill/sooktat_DL_project/blob/chaehyoung/EDA_0120/1_EDA(1).ipynb)
-- [N-gram](https://github.com/havehill/sooktat_DL_project/blob/chaehyoung/EDA_0120/1_EDA(2).ipynb)
+### 20230120 [EDA](https://github.com/havehill/sooktat_DL_project/tree/chaehyoung/230120)
+- [명사, 행태소 분석](https://github.com/havehill/sooktat_DL_project/blob/chaehyoung/230120/1_EDA%20(1).ipynb)
+- [N-gram](https://github.com/havehill/sooktat_DL_project/blob/chaehyoung/230120/1_EDA%20(2).ipynb)
 
 ### 20230129 [Preprocessing](https://github.com/havehill/sooktat_DL_project/blob/chaehyoung/Preprocessing_0129/2_Preprocessing_chaehyounng.ipynb)
   
