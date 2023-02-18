@@ -14,4 +14,4 @@
 
 ### 20230210 [RNN & LSTM](https://github.com/havehill/sooktat_DL_project/blob/chaehyoung/230210/4_RNN_LSTM.ipynb)
 
-### 20230218 [BERT]()
+### 20230218 [BERT](https://github.com/havehill/sooktat_DL_project/blob/chaehyoung/230218/5_BERT.ipynb)
