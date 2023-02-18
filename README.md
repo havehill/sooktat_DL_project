@@ -13,3 +13,5 @@
 ### 20230205 [LDA Topic Modeling](https://github.com/havehill/sooktat_DL_project/blob/chaehyoung/230205/3_LDA_topic_modeling.ipynb)
 
 ### 20230210 [RNN & LSTM](https://github.com/havehill/sooktat_DL_project/blob/chaehyoung/230210/4_RNN_LSTM.ipynb)
+
+### 20230218 [BERT]()
